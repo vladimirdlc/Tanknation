@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<resources>
+  
+<!--Tanque Default-->
+	<sprite name="Default_TanqueSeleccionado" base_angle="180">
+		<image file="data/Gfx/default_tanque_seleccionado.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<color alpha="0.5"/>
+	</sprite>
+
+	<sprite name="Default_TanqueNormal" base_angle="180">
+		<image file="data/Gfx/default_tanque_normal.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+	</sprite>
+
+	<sprite name="Default_TanqueMoviendose" base_angle="180">
+		<image file="data/Gfx/default_tanque_moviendose1.png" />
+		<image file="data/Gfx/default_tanque_moviendose2.png" />
+		<image file="data/Gfx/default_tanque_moviendose3.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<animation pingpong="no" speed="100"/>
+	</sprite>
+
+  <sprite name="Default_BrilloRojo" base_angle="180">
+    <image file="data/Gfx/default_tanque_brillo_rojo.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+
+  <sprite name="Default_TorretatFlashDisparo" base_angle="180">
+    <image file="data/Gfx/default_tanque_flash_disparo.png" />
+    <translation origin="center" y="53"/>
+    <rotation origin="center" y="53"/>
+    <animation pingpong="no" loop="false"/>
+  </sprite>
+
+<!--Tanque Default-->
+  
+<!--Torreta Default-->
+	
+	<sprite name="Default_TorretaNormal" base_angle="180">
+		<image file="data/Gfx/default_torreta_normal.png" />
+		<translation origin="center" y="5"/>
+		<rotation origin="center" y="5"/>
+	</sprite>
+	
+	<sprite name="Default_TorretaDisparando" base_angle="180">
+		<image file="data/Gfx/default_torreta_disparando1.png" />
+    <image file="data/Gfx/default_torreta_disparando2.png" />
+    <image file="data/Gfx/default_torreta_disparando3.png" />
+    <image file="data/Gfx/default_torreta_disparando4.png" />
+    <image file="data/Gfx/default_torreta_disparando5.png" />
+    <image file="data/Gfx/default_torreta_disparando6.png" />
+    <image file="data/Gfx/default_torreta_disparando7.png" />
+		
+		<frame nr="0" y="0"/>
+		<frame nr="1" y="-1"/>
+		<frame nr="2" y="-2"/>
+		<frame nr="3" y="-3"/>
+		<frame nr="4" y="-2"/>
+		<frame nr="5" y="-1"/>
+		<frame nr="6" y="0"/>
+		
+		<translation origin="center" y="5"/>
+		<rotation origin="center" y="5"/>
+		<animation pingpong="no" loop="false" speed="50"/>
+	</sprite>
+
+	<sprite name="Default_TorretaRecargando" base_angle="180">
+		<image file="data/Gfx/default_torreta_recargando1.png" />
+		<image file="data/Gfx/default_torreta_recargando2.png" />
+		<image file="data/Gfx/default_torreta_recargando3.png" />
+		<image file="data/Gfx/default_torreta_recargando4.png" />
+		<image file="data/Gfx/default_torreta_recargando5.png" />
+		<image file="data/Gfx/default_torreta_recargando6.png" />
+		<image file="data/Gfx/default_torreta_recargando7.png" />
+		<image file="data/Gfx/default_torreta_recargando8.png" />
+    
+		<translation origin="center" y="5"/>
+		<rotation origin="center" y="5"/>
+		<animation pingpong="no" loop="false" speed="100"/>
+	</sprite>
+
+<!--Torreta Default-->
+	
+<!--Misil Normal-->
+	<sprite name="MisilNormal" base_angle="180">
+		<image file="data/Gfx/misil_normal.png" />
+		<translation origin="bottom_center"/>
+		<rotation origin="bottom_center"/>
+	</sprite>
+<!--Misil Normal-->
+  
+<!--Construcciones-->
+  <sprite name="Helipad">
+		<image file="data/Sprites/helipad.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+	</sprite>
+<!--Construcciones-->
+
+<!--Particulas-->
+  <sprite name="Explosion">
+    <image file="data/Gfx/particulas/explosion.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <sprite name="Ruido">
+    <image file="data/Gfx/particulas/ruido.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+<!--Particulas-->
+  
+<!--Mapa-->
+  <texture name="Fondo" file="data/Sprites/fondo.png"/>
+<!--Mapa-->
+
+<!--GUI-->
+  <sprite name="LogoMini" base_angle="0">
+    <image file="data/Logo/pequetn.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <sprite name="Cursor" base_angle="0">
+    <image file="data/Sprites/target.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <sprite name="Boton" base_angle="0">
+    <image file="data/Sprites/guiboton.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <sprite name="Boton_ok" base_angle="0">
+    <image file="data/Sprites/ok.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <sprite name="Boton_cancelar" base_angle="0">
+    <image file="data/Sprites/cancelar.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <sprite name="Boton_cambiar" base_angle="0">
+    <image file="data/Sprites/cambiar.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+  <!--GUI-->
+  
+<!--PowerUps-->
+  <sprite name="Medikit" base_angle="0">
+    <image file="data/Sprites/medikit.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+
+  <sprite name="Escudo" base_angle="0">
+    <image file="data/Sprites/escudo.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+
+  <sprite name="RapidezTanque" base_angle="0">
+    <image file="data/Sprites/rapidez_tanque.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+
+  <sprite name="RapidezMisil" base_angle="0">
+    <image file="data/Sprites/rapidez_misil.png" />
+    <translation origin="center"/>
+    <rotation origin="center"/>
+  </sprite>
+
+<!--PowerUps-->
+  
+<!--Sonidos-->
+  <sample name="Ataque_Aereo" file="data/Sonido/ataque_aereo.ogg"/>
+  <sample name="Default_SonidoTorreta" file="data/Sonido/default_torreta.ogg"/>
+	<sample name="MisilChoque" file="data/Sonido/misil_choque.ogg"/>
+  <sample name="Comienzo" file="data/Sonido/comienzo_mapa.ogg"/>
+  <sample name="Musica" file="data/Sonido/fondo_dIA.ogg"/>
+<!--Sonidos-->
+  
+</resources>
