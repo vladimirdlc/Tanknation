@@ -1,0 +1,79 @@
+<He aquí la primera beta abiertamente pública de TankNation>
+
+Bienvenido a TankNation "un juego multijugador masivo de guerra, sangre,
+destrucción total y sobretodo... TANQUES!!" ...o al menos eso es lo que debería ser :p,
+no obstante a demanda del público por supuesto, y para cumplir con ciertos requisitos
+académicos al mismo tiempo, hoy, ha llegado a tus manos esta demo técnica
+que personalmente presento, la cual no hubiese sido posible sin el apoyo de 
+más de un par de colegas y amigos (después les daré sus respectivos créditos,
+no me demanden, ustedes saben quienes son ;)
+
+En fin, si aún no has empezado a jugar, ¿qué estás esperando?,
+quizás andas algo perdid@, ¿o quieres algunas indicaciones?
+bien, siendo sencillo las mismas son las siguientes:
+
+1.Requerimientos mínimos:
+
+233 MhZ Pentium II o equivalente
+64MB Ram
+OpenGL 1.1+
+Mouse&Teclado
+
+2. Teclas de Movimiento
+
+W - Avanza
+A - Gira a la izquierda
+S - Retrocede
+D - Gira a la derecha
+
+Click izquierdo - disparo
+Y - Abre ventana de chat
+R - Reinicia el juego
+
+3. Cómo cambiarse el apodo
+
+Al final de cada partida de 5 minutos, si todo está funcionando
+chévere y mi servidor/laptop/internet están funcionando correctamente
+te ha de resultar posible ver el ranking global con sus primeros 3
+exponentes. Este es el ranking que se llena con las ganadas de los
+jugadores desde cualquier parte del mundo que tenga acceso a internet
+y una copia de TankNation.
+
+Así mismo si no cuentas con una conección de Internet
+(no sé como puedes vivir), los resultados de tus partidas
+se guardar en tu propio registro local, y en donde a la 
+final de cada partida se muestran los mejores 3 jugadores
+igualmente, con la diferencia que son sólo aquellos
+que hayan jugado en tu máquina, de manera online o no.
+
+Después de todo esto nace la importancia de este punto,
+si deseas diferenciarte de tus amigos y enemigos, para
+poder demostrar tu supremacia y habilidades especiales,
+tanto en el servidor global como en tu casa
+debes cambiarte el nick de la siguiente manera:
+
+a. Presiona tecla Y (chat)
+b. escribe "nnombre "
+c. por último escribe tu nuevo apodo
+
+Ej: Jugador: nnombre Yoyoyo
+
+4. Reiniciar el juego
+
+Presiona la tecla 'R'
+
+5. Para ejecutar el juego
+Busca dentro de la carpeta "TN_DemoDeathmatch_IA_0.1beta\"
+el ejecutable de nombre "JATG.exe" (o Just Another Tank Game)
+
+Anyway if you got stuck, have a doubt, or have something (good) to say, 
+don't doubt in contact me, at mi personal email vladimirdlc@gmail.com or
+well write freely on the official page http://tanknation.servegame.org/
+
+Let's help the global and Venezuelan industry of videogames, becouse Yes We can!
+
+Atte. Vladimir de la Cruz
+
+
+
+

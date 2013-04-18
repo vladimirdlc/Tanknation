@@ -1,0 +1,63 @@
+<Here it is the first open beta of TankNation>
+
+Welcome to TankNation, "a MMOG of war, blood, total destruction, and overall... TANKS!!"
+...o so we say so :P. By public demand, and to achieve with some academic requisits at
+the same time, today, has come to your hands this tech demo that I personally
+present, and wicht itself would not had been possible without the help 
+of a couple o partners and friends (I will later give yourself your own credits,
+don't issue me, you know who you are ;)
+
+Nontheless are you not playing already? what are you waiting for?,
+maybe you're a little lost, or you want some indications.
+Well let see what we got...
+
+1.Minimun Requeriments
+
+233 MhZ Pentium II or equal
+64MB Ram
+OpenGL 1.1+
+Mouse & Keyboard
+
+2.Movement Keys
+
+W - Fordward
+A - Turn to left
+S - Backward
+D - Turn to right
+
+Left Click - shooting
+Y - Chat
+R - Reset
+
+3. How to change the nickname
+
+At the end of every round of 5 minutos, if everything is working good
+and my server/laptop/internet are working perfectly, 
+you may be able to see the global ranking with it first 3
+exponents. This ranking get filled with the wins of all players
+from around the world with acess to Internet and a copy of TankNation.
+
+In the same way if you don't count with a Internet conección
+(don't know hoy you can live), the results of your wins
+will store in your own personal register, in wich where 
+at the end of every round it's showed the best 3 players
+with the difference that only that played on your machine
+appears.
+
+After all this is born the importance of this point
+if you want to difference yourself from your friends
+and have a prove of your skill and abilities in the game,
+also in the real life though, in the global server 
+and in your home you may change your nick of this way:
+
+a. Press key 'Y'
+b. write "nnombre "
+c. Write your new nickname
+
+Ej: Jugador: nnombre Yoyoyo
+    <Now your name is Yoyoyo>
+
+4. Restart the Game
+
+Press 'R' Key
+

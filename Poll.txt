@@ -1,0 +1,53 @@
+Age: __
+
+¿How much mean time you spend a day playing videogames daily?
+(Select an option)
+
+( ) Less than an hour
+( ) Between one and two hours
+( ) Between two and four hours
+( ) More than four hours
+
+¿What generes of videogames do you like?
+(Multiple selection)
+
+_Action _Adventure _RPG _Sports
+_Simulation _Estrategy _Arcade
+_Plataforms Another: ______
+                                  
+¿Do you like the multiplayer online games?
+
+Yes_ No_
+
+¿Would you like that the prototipe of videogame presented
+had multiplayer online options?
+
+Yes_ No_
+
+
+¿How did you find the performance executing the game?
+(Select an option)
+
+( ) Excelent
+( ) Good
+( ) Regular
+( ) Deficient
+( ) Could not execute it
+
+
+¿How much entertaining did you find the prototipe?
+(Select an option)
+
+( ) Very entertaining
+( ) Entertaining
+( ) Little entertaining
+( ) Did not entertained me
+
+¿Would you like to see some aditional caracteristic in future releases?
+
+___________________________________
+
+
+Adicional observations:
+
+___________________________________
